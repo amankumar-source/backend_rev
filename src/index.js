@@ -22,15 +22,6 @@ connectDB()
 
 
 
-
-
-
-
-
-
-
-
-
   
 // one method
 
