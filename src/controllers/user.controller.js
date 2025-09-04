@@ -501,5 +501,4 @@ export {
   updateUserCoverImage,
   getUserChannelProfile,
   getWatchHistory
-
 }
